@@ -13,4 +13,4 @@ function sum(numberOne , numberTwo) {
         console.log('el numero dos es mayor ' + numberTwo );
     }
     }
-    sum (4, 5);
+    sum (6, 5);
